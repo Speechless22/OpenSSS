@@ -1,6 +1,6 @@
 ### This is not a complete project
 
-# A simple smart system solution
+# Smart System Solution
 
 ## Tool
 
