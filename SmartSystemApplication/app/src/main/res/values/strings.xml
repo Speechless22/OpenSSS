@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart System Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_config">Config</string>
+
+    <string name="textview_temperature">温度: 等待中</string>
+    <string name="textview_humidity">湿度: 等待中</string>
+    <string name="textview_illumination">照度: 等待中</string>
+    <string name="set_flag">置安全位</string>
+    <string name="toggle_button_led">客厅灯</string>
+    <string name="toggle_button_alarm">报警器</string>
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
+    <string name="offline">Offline</string>
+    <string name="esptouch1_ssid_title">"SSID: "</string>
+    <string name="esptouch1_bssid_title">"BSSID: "</string>
+    <string name="esptouch1_password_title">"密码: "</string>
+    <string name="esptouch1_device_count_title">"设备数量: "</string>
+    <string name="esptouch1_package_broadcast">广播</string>
+    <string name="esptouch1_package_multicast">组播</string>
+    <string name="esptouch1_confirm">确认</string>
+</resources>
