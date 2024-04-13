@@ -7,7 +7,7 @@
 - Hardware --> [嘉立创EDA(专业版)](https://lceda.cn/)
     - Schematic👇
 
-    ![alt text](Resources/Pictures/SVG_Smart_System_2024-04-11/Schematic1/SCH_Schematic1_1-P1_2024-04-11.svg)
+    ![alt text](Resources/Pictures/SVG_Smart_System_2024-04-13/Schematic1/SCH_Schematic1_1-P1_2024-04-13.svg)
 
 - Firmware --> [PlatformIO IDE for VSCode](https://platformio.org/)
 
