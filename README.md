@@ -19,6 +19,10 @@
 
 ![alt text](Resources/Pictures/System_Framework.svg)
 
+## ESP-TOUCH
+
+![alt text](Resources/Pictures/ESP-TOUCH.svg)
+
 ## Message
 
 ![alt text](Resources/Pictures/Remote_Message.svg)

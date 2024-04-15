@@ -73,14 +73,14 @@
 			<text x="9.31" y="382.57" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>MQTT Broker</text>		</g>
 		<g id="shape1003-14" v:mID="1003" v:groupContext="shape" transform="translate(447.643,-66.0373)">
 			<title>框.1003</title>
-			<desc>Android Client</desc>
+			<desc>Client</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="62.0497" cy="377.171" width="124.1" height="93.0746"/>
 			<rect x="0" y="330.634" width="124.099" height="93.0746" class="st4"/>
-			<text x="10.05" y="382.57" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Android Client</text>		</g>
+			<text x="42.3" y="382.57" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Client</text>		</g>
 		<g id="shape1009-17" v:mID="1009" v:groupContext="shape" transform="translate(19.5,-19.5)">
 			<title>工作表.1009</title>
 			<desc>Local</desc>
