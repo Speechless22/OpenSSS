@@ -18,7 +18,7 @@ void BUZZER_Init(void)
 /*
 控制蜂鸣器
 参数：
-    intensity：蜂鸣器亮度，范围：0~99，0表示关闭蜂鸣器，99表示最大亮度
+    intensity：蜂鸣器强度，范围：0~99，0表示关闭蜂鸣器，99表示最大强度
  */
 void BUZZER_Control(int8_t intensity)
 {
